@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link href="styles/myStyle.css" rel="stylesheet" >
+</head>
+<body>
+<header>
+    <h1 id="title">2016 race runners</h1>
+</header>
+<div id="main">
+    <ul class="idTabs">
+        <li><a href="#runner_m">Male Runners</a></li>
+        <li><a href="#runner_f">Female Runners</a></li>
+        <li><a href="#runner_a">All Runners</a></li>
+    </ul>
+    <div id="runner_m">
+        <h4>Male Runners</h4>
+        <ul id="male"></ul>
+    </div>
+    <div id="runner_f">
+        <h4>Female Runners</h4>
+        <ul id="female"></ul>
+    </div>
+    <div id="runner_a">
+        <h4>All Runners</h4>
+        <ul id="all"></ul>
+    </div>
+</div>
+<footer>
+    <h3>Congratulations to our runners</h3>
+    <button id="btnStart">Start Page Update</button>
+    <button id="btnStop">Stop Page Update</button>
+    <br>
+    <span id="freq"></span><br>
+</footer>
+<script src="script/jquery-1.6.2.min.js"></script>
+<script src="script/jquery.idTabs.min.js"></script>
+<script src="script/myScript.js"></script>
+</body>
+</html>
