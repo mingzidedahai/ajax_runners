@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<finishers>
+    <runner>
+        <name>gaoruming</name>
+        <number>1</number>
+        <gender>female</gender>
+        <time>36:12</time>
+        <pic></pic>
+    </runner>
+    <runner>
+        <name>xinxiangbin</name>
+        <number>2</number>
+        <gender>male</gender>
+        <time>50:36</time>
+    </runner>
+    <runner>
+        <name>jinan</name>
+        <number>3</number>
+        <gender>male</gender>
+        <time>40:36</time>
+    </runner>
+    <runner>
+        <name>macan</name>
+        <number>4</number>
+        <gender>female</gender>
+        <time>38:20</time>
+    </runner>
+    <runner>
+        <name>liuxiaobin</name>
+        <number>5</number>
+        <gender>male</gender>
+        <time>40:12</time>
+    </runner>
+    <runner>
+        <name>liuwanqi</name>
+        <number>6</number>
+        <gender>female</gender>
+        <time>35:34</time>
+    </runner>
+    <runner>
+        <name>wangjiuyang</name>
+        <number>7</number>
+        <gender>male</gender>
+        <time>30:56</time>
+    </runner>
+    <runner>
+        <name>zhanghao</name>
+        <number>8</number>
+        <gender>female</gender>
+        <time>40:32</time>
+    </runner>
+</finishers>
